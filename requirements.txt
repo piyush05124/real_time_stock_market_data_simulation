@@ -1,0 +1,10 @@
+dash==3.0.3
+numpy==1.24.4
+numpy==1.21.5
+pandas==1.5.3
+plotly==6.0.1
+psycopg2_binary==2.9.9
+redis==5.0.4
+SQLAlchemy==1.4.52
+streamlit==1.39.0
+streamlit_autorefresh==1.0.1
