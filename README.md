@@ -68,4 +68,4 @@ pip install -r requirements.txt
    - finally start main.py using command streamlit run main.py
 
 
-
+![dashboard](GENERATOR_SERVER/download.png)
