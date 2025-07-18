@@ -52,8 +52,8 @@ def start_server(host,port):
 
 if __name__ == "__main__":
     #----------------------------|
-    host  = '10.1.184.213'         #|
-    port  = 5008               #|
+    host  = ''         #| place your host IP
+    port  = 0          #| place your host port
     #----------------------------|
     start_server(host,port)
 
