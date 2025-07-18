@@ -240,35 +240,6 @@ def getDateRangeData(table,start_date, end_date):
 
 
 
-# from sqlalchemy.ext.declarative import declarative_base
-# from sqlalchemy import Column, Integer, Float, DateTime, String
-
-# Base = declarative_base()
-
-# class df_usdinr_minute_data(Base):
-#     __tablename__ = 'df_usdinr_minute_data'
-
-#     id = Column(Integer, primary_key=True)
-#     datetime = Column(DateTime,unique=True)
-#     open = Column(Float)
-#     high = Column(Float)
-#     low = Column(Float)
-#     close = Column(Float)
-#     symbol = Column(String)
-
-# class df_nifty_minute_data(Base):
-#     __tablename__ = 'df_nifty_minute_data'
-
-#     id = Column(Integer, primary_key=True)
-#     datetime = Column(DateTime,unique=True)
-#     open = Column(Float)
-#     high = Column(Float)
-#     low = Column(Float)
-#     close = Column(Float)
-#     symbol = Column(String)
-
-
-
 
 
 
