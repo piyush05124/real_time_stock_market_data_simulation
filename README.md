@@ -54,3 +54,15 @@ The stock market generates vast amounts of high-velocity data, demanding efficie
 
 1. **Clone the Repository**
 
+2. **Install Dependencies**
+pip install -r requirements.txt
+
+
+3. **Configure Environment**
+- Setup Redis and PostgreSQL instances.
+- Adjust configuration files as needed.
+
+4. **Start the Pipeline**
+
+
+
