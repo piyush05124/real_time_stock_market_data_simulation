@@ -137,8 +137,8 @@ def process_data(flag = flag,key=date):
 
 if __name__ == "__main__":
     # Create threads for each server
-    server_1 = 'localhost'
-    server_2 = '10.1.35.167'
+    server_1 = ''
+    server_2 = ''
     thread1 = threading.Thread(target=receive_data, args=(server_1,5001))
     thread2 = threading.Thread(target=receive_data, args=(server_2,5008))
     
