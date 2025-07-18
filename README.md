@@ -63,6 +63,9 @@ pip install -r requirements.txt
 - Adjust configuration files as needed.
 
 4. **Start the Pipeline**
+   - start generating data nifty_server.py and serverr_2.py in separate terminal.
+   - Start primary_client.py to get the generated data.
+   - finally start main.py using command streamlit run main.py
 
 
 
