@@ -54,8 +54,8 @@ def start_server(host,port):
 
 if __name__ == "__main__":
     #----------------------------|
-    host  = 'localhost'         #|
-    port  = 5001                #|
+    host  = 'localhost'         #| replace with your host IP
+    port  = 5                   #| replace with your host port
     #----------------------------|
     start_server(host,port)
 
